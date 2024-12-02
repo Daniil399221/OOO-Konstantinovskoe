@@ -67,6 +67,7 @@
 
 html {
   font-size: 4px;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -575,7 +576,4 @@ nav::after {
   left: 0;
   width: 100vw;
 }
-
-
-
 
