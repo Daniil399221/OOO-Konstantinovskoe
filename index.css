@@ -551,7 +551,16 @@ nav::after {
   column-gap: calc(var(--size-base)*6);
 }
 
-.socials__link {
+.whatsapp {
+  width: calc(var(--size-base)*12);
+  height: calc(var(--size-base)*12);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.telegram {
   width: calc(var(--size-base)*12);
   height: calc(var(--size-base)*12);
 
